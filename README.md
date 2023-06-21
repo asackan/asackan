@@ -16,6 +16,7 @@
 
 - **Researcher** (2022 ~ Present)
   - Korea Electronics Technology Institute Intelligent Robotics Research Center([KETI](https://www.keti.re.kr/main/main.php))
+    
 - **undergraduate research student** (2020 ~ 2022)
   - Kumoh National Institute of Technology Autonomous Intelligent Systems Lab ([KIT AISL](https://aisl.kumoh.ac.kr/))
 
@@ -23,7 +24,7 @@
 
 - 실내 유실물 탐지 및 지도 작성
 
-- Multi Robot 실시간 2D 지도 병합
+- Multi Robot 실시간 지도 병합
 
 
 <h2 align="left">🥑 Languages and Tools</h3>

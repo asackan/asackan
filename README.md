@@ -23,7 +23,7 @@
 
 - 실내 유실물 탐지 및 지도 작성
 
-- ...
+- Multi Robot 2D 지도 병합
 
 
 <h2 align="left">🥑 Languages and Tools</h3>

@@ -23,14 +23,21 @@
 <h2 align="left">⚾ Projects</h3>
 
 - 실내 유실물 탐지 및 지도 작성
+  -  객체 인식 및 객체까지의 거리 감지
+  -  3D Point Cloud 지도 작성
+  -  지도 위 객체 표시
 
 - Multi Robot 실시간 지도 병합
+  - 이종 플랫폼 간의 통신용 mesh network 구축
+  - 지도 병합 알고리즘을 이용한 SLAM 재귀 업데이트
+ 
+- 장애물 회피를 위한 Around view 설계
+  - tcp/ip 통신
 
 
-<h2 align="left">🥑 Languages and Tools</h3>
+<h2 align="left">🥑 Languages & Tools</h3>
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>

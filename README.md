@@ -22,21 +22,23 @@
 
 <h2 align="left">⚾ Projects</h3>
 
-- 실내 유실물 탐지 및 지도 작성
-  -  객체 인식 및 객체까지의 거리 감지
-  -  3D Point Cloud 지도 작성
-  -  지도 위 객체 표시
+- Multi-Target Search System in indoor Environments
+  -  Object recognition
+  -  Distance detection to objects
+  -  Create a 3D Point Cloud Map
+  -  Show objects on the map
 
-- Multi Robot 실시간 지도 병합
-  - 이종 플랫폼 간의 통신용 mesh network 구축
-  - 지도 병합 알고리즘을 이용한 SLAM 재귀 업데이트
- 
-- 장애물 회피를 위한 Around view 설계
-  - tcp/ip 통신
-
+- Multi Robot Real-Time Map Merge
+  - Establishing a mesh network for communication between multi platforms
+  - Developed a recursive update of merged map to SLAM
 
 <h2 align="left">🥑 Languages & Tools</h3>
 
+- Seonsor used
+  - Camera : D435i, D455, ZED1, ZED-mini
+  - Lidar  : VLP-16, RP-Lidar A3
+  - IMU    : 3DM-GX5-GNSS/INS
+   
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 

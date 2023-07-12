@@ -15,7 +15,7 @@
 <h2 align="left">🚀 Careers</h3>
 
 - **Researcher** (2022 ~ Present)
-  - Korea Electronics Technology Institute Intelligent Robotics Research Center([KETI](https://www.keti.re.kr/main/main.php))
+  - Korea Electronics Technology Institute Intelligent Robotics Research Center ([KETI](https://www.keti.re.kr/main/main.php))
     
 - **undergraduate research student** (2020 ~ 2022)
   - Kumoh National Institute of Technology Autonomous Intelligent Systems Lab ([KIT AISL](https://aisl.kumoh.ac.kr/))
@@ -23,14 +23,14 @@
 <h2 align="left">⚾ Projects</h3>
 
 - Multi-Target Search System in indoor Environments
-  -  Object recognition
-  -  Distance detection to objects
+  -  Object Recognition
+  -  Distance detection to Objects
   -  Create a 3D Point Cloud Map
-  -  Show objects on the map
+  -  Show Objects on the Map
 
 - Multi Robot Real-Time Map Merge
-  - Establishing a mesh network for communication between multi platforms
-  - Developed a recursive update of merged map to SLAM
+  - Establishing a Mesh Network for Communication between Multi Robot
+  - Developed a Recursive Update of Merged Map to SLAM
 
 <h2 align="left">🥑 Languages & Tools</h3>
 

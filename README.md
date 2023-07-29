@@ -22,7 +22,7 @@
 
 <h2 align="left">⚾ Projects</h3>
 
-- Multi-Target Search System in indoor Environments
+- Target Search System in indoor Environments
   -  Object Recognition
   -  Distance detection to Objects
   -  Create a 3D Point Cloud Map

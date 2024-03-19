@@ -14,14 +14,18 @@
 
 
 <h2 align="left">🚀 Careers</h3>
+- **Researcher** (2024 ~ Present)
+  - COGA Robotics ([COGA](https://www.coga-robotics.com/))
 
-- **Researcher** (2022 ~ Present)
+- **Researcher** (2022 ~ 2023)
   - Korea Electronics Technology Institute / Intelligent Robotics Research Center ([KETI](https://www.keti.re.kr/main/main.php))
     
 - **research student** (2020 ~ 2022)
   - Kumoh National Institute of Technology / Autonomous Intelligent Systems Lab ([KIT AISL](https://aisl.kumoh.ac.kr/))
 
 <h2 align="left">⚾ Projects</h3>
+- **ICP accelerator design** (2024.02 ~ 2024.03)
+  - Iterative Closest Point algorithm acceleration with CUDA
 
 - **Target Search System in indoor Environments** (2021.02 ~ 2022.02)
   -  Object Recognition & Localization

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juwon</h1>
-<h3 align="center">I want to be a SLAM Engineer who creates technologies can be applied in real life</h3>
+<h3 align="center">I want to be a Engineer who creates technologies can be applied in real life</h3>
 
 
 <h2 align="left">🪄 Interests</h3>
@@ -24,6 +24,15 @@
   - Kumoh National Institute of Technology / Autonomous Intelligent Systems Lab ([KIT AISL](https://aisl.kumoh.ac.kr/))
 
 <h2 align="left">⚾ Projects</h3>
+- **Development of A Localization System using Camera** (2024.09 ~ present)
+  - Camera Calibraion
+  - Stereo Depth Estimation
+  - Feature Extraction Using NPU
+
+- **Development Robot Firmware** (2024.04 ~ 2024.09)
+  - Communication Development (RS-485, RS-232, I2C, USART)
+  - Sensor Data Processing, and Fusion
+
 - **ICP accelerator design** (2024.02 ~ 2024.03)
   - Iterative Closest Point algorithm acceleration with CUDA
 

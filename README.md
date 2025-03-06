@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juwon</h1>
-<h3 align="center">I want to be an Engineer who creates technologies that can be applied in real life</h3>
+<h3 align="center">I am a robotics engineer driven to push real-world technology forward</h3>
 
 <h2 align="left">🪄 Interests</h2>
 

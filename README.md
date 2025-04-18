@@ -3,13 +3,17 @@
 
 <h2 align="left">🪄 Interests</h2>
 
+- **Deep Learning**
+  - AI, LLM
+  - MCP, LangChain
+
 - **Simultaneous Localization and Mapping (SLAM)**
-  - Visual-SLAM, Visual-Inertial Odometry, Visual-Localization
+  - SLAM, Visual-Localization
   - 2D & 3D LiDAR SLAM, Deep SLAM
 
 - **Sensor Fusion**
-  - Integrating data from various sensors into a system
-  - LiDAR, Camera, IMU, Wheel, ...
+  - Integrating Data, Filtering
+  - LiDAR, Camera, IMU, Wheel, Radar
 
 <h2 align="left">🚀 Careers</h2>
 
@@ -24,29 +28,31 @@
 
 <h2 align="left">⚾ Projects</h2>
 
-- **Development of a Localization System using Camera** (2024.09 ~ Present)  
+- **Development of a Localization System using Camera** (2024.10 ~ Present)  
   - Camera Calibration  
   - Stereo Depth Estimation  
-  - Feature Extraction Using NPU  
+  - Feature Extraction Using NPU
+  - Visual SLAM Performance Improve
 
 - **Development of Robot Firmware** (2024.04 ~ 2024.09)  
   - Communication Development (RS-485, RS-232, I2C, USART)  
   - Sensor Data Processing and Fusion  
 
 - **ICP Accelerator Design** (2024.02 ~ 2024.03)  
-  - Iterative Closest Point Algorithm Acceleration with CUDA  
+  - Iterative Closest Point Algorithm Acceleration with CUDA
+ 
+- **Development of Mobile Manipulator** (2023.05 ~ 2023.12)  
+  - ModBus & Socket Communication for Robot Control  
+  - Building Control System for 4 Mecanum Wheel Robot
+ 
+- **Multi-Robot Real-Time 2D Map Merge** (2022.09 ~ 2023.04)  
+  - Implementation of Multi-Robot 2D SLAM using ROS  
+  - Developed Real-Time Map Merge & Recursive Update of Merged Map to SLAM  
 
 - **Target Search System in Indoor Environments** (2021.02 ~ 2022.02)  
   - Object Recognition & Localization  
   - 3D LiDAR SLAM with Representation of Objects on the Map  
 
-- **Multi-Robot Real-Time 2D Map Merge** (2022.09 ~ 2023.04)  
-  - Implementation of Multi-Robot 2D SLAM using ROS  
-  - Developed Real-Time Map Merge & Recursive Update of Merged Map to SLAM  
-
-- **Development of Mobile Manipulator** (2023.05 ~ Present)  
-  - ModBus & Socket Communication for Robot Control  
-  - Building Control System for 4 Mecanum Wheel Robot  
 
 <h2 align="left">🥑 Languages & Tools</h2>
 

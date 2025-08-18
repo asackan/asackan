@@ -3,10 +3,6 @@
 
 <h2 align="left">🪄 Interests</h2>
 
-- **Deep Learning**
-  - AI, LLM
-  - MCP, LangChain
-
 - **Simultaneous Localization and Mapping (SLAM)**
   - SLAM, Visual-Localization
   - 2D & 3D LiDAR SLAM, Deep SLAM
@@ -14,6 +10,10 @@
 - **Sensor Fusion**
   - Integrating Data, Filtering
   - LiDAR, Camera, IMU, Wheel, Radar
+ 
+- **Deep Learning**
+  - AI, LLM
+  - MCP, LangChain
 
 <h2 align="left">🚀 Careers</h2>
 

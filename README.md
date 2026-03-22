@@ -17,7 +17,7 @@
 
 <h2 align="left">🚀 Careers</h2>
 
-- **Researcher** (2024 ~ Present)  
+- **Researcher** (2024 ~ 2025)  
   - COGA Robotics ([COGA](https://www.coga-robotics.com/))
 
 - **Researcher** (2022 ~ 2023)  
@@ -28,7 +28,7 @@
 
 <h2 align="left">⚾ Projects</h2>
 
-- **Development of a Localization System using Camera** (2024.10 ~ Present)  
+- **Development of a Localization System using Camera** (2024.10 ~ 2025.10)  
   - Camera Calibration  
   - Stereo Depth Estimation  
   - Feature Extraction Using NPU

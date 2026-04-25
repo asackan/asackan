@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juwon</h1>
-<h3 align="center">I am a robotics engineer driven to push real-world technology forward</h3>
+<h3 align="center">Architecting High-Performance Autonomous Systems for Real-World Innovation</h3>
 
 <h2 align="left">🪄 Interests</h2>
 
@@ -20,45 +20,32 @@
   - Linux Kernel & Custom Driver Development
   - High-Performance Services & CLI Tools
   - Scalable Backend for Robot Fleet Management
- 
-<h2 align="left">🚀 Careers</h2>
-
-- **Researcher** (2024 ~ 2025)  
-  - COGA Robotics ([COGA](https://www.coga-robotics.com/))
-
-- **Researcher** (2022 ~ 2023)  
-  - Korea Electronics Technology Institute / Intelligent Robotics Research Center ([KETI](https://www.keti.re.kr/main/main.php))
-
-- **Research Student** (2020 ~ 2022)  
-  - Kumoh National Institute of Technology / Autonomous Intelligent Systems Lab ([KIT AISL](https://aisl.kumoh.ac.kr/))
 
 <h2 align="left">⚾ Projects</h2>
 
-- **Development of a Localization System using Camera** (2024.10 ~ 2025.10)  
+- **Development of a Localization System using Camera**
   - Camera Calibration  
-  - Stereo Depth Estimation  
   - Feature Extraction Using NPU
   - Visual SLAM Performance Improve
 
-- **Development of Robot Firmware** (2024.04 ~ 2024.09)  
+- **Development of Robot Firmware**
   - Communication Development (RS-485, RS-232, I2C, USART)  
-  - Sensor Data Processing and Fusion  
+  - Sensor Data Processing and Fusion
 
-- **ICP Accelerator Design** (2024.02 ~ 2024.03)  
-  - Iterative Closest Point Algorithm Acceleration with CUDA
+- **Accelerator Design**
+  - Algorithm Acceleration with CUDA
  
-- **Development of Mobile Manipulator** (2023.05 ~ 2023.12)  
-  - ModBus & Socket Communication for Robot Control  
-  - Building Control System for 4 Mecanum Wheel Robot
+- **Development of Mobile Manipulator**
+  - ModBus & Socket Communication 
+  - Building Control System
  
-- **Multi-Robot Real-Time 2D Map Merge** (2022.09 ~ 2023.04)  
-  - Implementation of Multi-Robot 2D SLAM using ROS  
-  - Developed Real-Time Map Merge & Recursive Update of Merged Map to SLAM  
+- **Multi-Robot Map Merge**
+  - Implementation of Multi-Robot 2D SLAM
+  - Developed Real-Time Map Merge
 
-- **Target Search System in Indoor Environments** (2021.02 ~ 2022.02)  
+- **Target Search System in Indoor Environments**
   - Object Recognition & Localization  
-  - 3D LiDAR SLAM with Representation of Objects on the Map  
-
+  - 3D LiDAR SLAM with Representation of Objects on the Map
 
 <h2 align="left">🥑 Languages & Tools</h2>
 <table role="presentation">

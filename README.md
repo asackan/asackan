@@ -3,18 +3,24 @@
 
 <h2 align="left">🪄 Interests</h2>
 
-- **Simultaneous Localization and Mapping (SLAM)**
-  - SLAM, Visual-Localization
-  - 2D & 3D LiDAR SLAM, Deep SLAM
+ - **Perception & Optimization**
+  - Visual-Localization, 2D & 3D SLAM
+  - Image Processing & Data Pipeline Acceleration
 
-- **Sensor Fusion**
-  - Integrating Data, Filtering
-  - LiDAR, Camera, IMU, Wheel, Radar
+- **High-Performance Embedded Systems**
+  - Multi-Sensor Fusion (LiDAR, Camera, IMU, Radar)
+  - Parallel Data Processing & Asynchronous I/O
+  - Multi-protocol Communication (CAN, Ethernet, UART)
+
+- **Embodied AI & Edge Computing**
+  - VLA(Vision-Language-Action), Reinforcement Learning
+  - Edge Device Model Deployment & Inference Optimization
+
+- **Systems & Infrastructure**
+  - Linux Kernel & Custom Driver Development
+  - High-Performance Services & CLI Tools
+  - Scalable Backend for Robot Fleet Management
  
-- **Deep Learning**
-  - AI, LLM
-  - MCP, LangChain
-
 <h2 align="left">🚀 Careers</h2>
 
 - **Researcher** (2024 ~ 2025)  

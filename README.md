@@ -4,8 +4,8 @@
 <h2 align="left">🪄 Interests</h2>
 
  - **Perception & Optimization**
-  - Visual-Localization, 2D & 3D SLAM
-  - Image Processing & Data Pipeline Acceleration
+   - Visual-Localization, 2D & 3D SLAM
+   - Image Processing & Data Pipeline Acceleration
 
 - **High-Performance Embedded Systems**
   - Multi-Sensor Fusion (LiDAR, Camera, IMU, Radar)
